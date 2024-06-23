@@ -1,6 +1,6 @@
 # AmazonSales
 
--Google colab notebook that has python code
+-Google colab notebook that has python code (which includes seaborn/matplotlib visuals, classification model, etc)
 
 -pbix PowerBI interactive dashboard file (should be opened using PowerBi Desktop)
 
